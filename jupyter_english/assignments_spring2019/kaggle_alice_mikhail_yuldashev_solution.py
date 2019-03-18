@@ -113,6 +113,6 @@ with timer('Test prediction and submission'):
     test_pred = logit.predict_proba(X_test_final)[:, 1]
     pred_df = pd.DataFrame(test_pred, index=np.arange(1, test_pred.shape[0] + 1),
                        columns=['target'])
-    pred_df.to_csv(f'submission_alice_{AUTHOR}.csv', index_label='session_id')
+    pred_df.to_csv(f'submission_alice_{AUTHOR}.csv', index_label='session_id')  # PB LB: 0.95446
 
 
