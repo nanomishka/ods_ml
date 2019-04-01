@@ -4,7 +4,7 @@
 
 :ru: [Russian version](https://github.com/Yorko/mlcourse.ai/wiki/About-the-course-(in-Russian)) :ru: 
 
-Current session: **February 11th - April 26th, 2019**. You can join at any point, fill in [this form](https://docs.google.com/forms/d/1BMqcUc-hIQXa0HB_Q2Oa8vWBtGHXk8a6xo5gPnMKYKA/edit) to participate, please explore the main page [mlcourse.ai](https://mlcourse.ai) as well.
+The next (and final) session launches on **September 2, 2019.** Fill in [this form](https://docs.google.com/forms/d/10HAN5huM996snUKjsNYyT_oOlm2uOsTKulKurb3oiNM/) to participate, please explore the main page [mlcourse.ai](https://mlcourse.ai) as well.
 
 Mirrors (:uk:-only): [mlcourse.ai](https://mlcourse.ai) (main site), [Kaggle Dataset](https://www.kaggle.com/kashnitsky/mlcourse) (same notebooks as Kernels)
 
@@ -45,6 +45,7 @@ Introduction, [video](https://youtu.be/QKTuw4PNOsU), [slides](https://bit.ly/2Nu
     - Part 1. "Decision trees for classification and regression", [nbviewer](https://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_english/assignments_spring2019/assignment3_part1_decision_trees.ipynb?flush_cache=true)
     - Part 2. "Random Forest and Logistic Regression in credit scoring and movie reviews classification", [nbviewer](https://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_english/assignments_spring2019/assignment3_part2_rf_logit_scoring_texts.ipynb?flush_cache=true)
     - Part 3. "Flight delays" competition, [Kernel](https://www.kaggle.com/kashnitsky/mlcourse-ai-assignment-3-starter) starter
+4. Time series analysis, [nbviewer](https://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_english/assignments_spring2019/assignment4_time_series.ipynb?flush_cache=true). Deadline: **April 7, 20:59 GMT**
     
 ### Demo assignments, just for practice
 The following are demo versions. Full versions are announced during course sessions.  
